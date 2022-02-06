@@ -2,3 +2,5 @@
 Proyectos del curso Data Science impartido por Data &amp; Analytics 
 
 PROYECTO 1: CREAR DATA FRAME Y MANEJO DE LISTAS 
+
+PROYECTO 2: FUNCIONES, EDICION DE DATA FRAME Y GRAFICOS 
